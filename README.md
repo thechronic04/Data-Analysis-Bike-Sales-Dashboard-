@@ -28,3 +28,4 @@ Engagement & Retention (if future data is collected):
 - Merge all pivot tables into one dashboard and apply sciler to make dynamic.
 
 ## Dashboard
+![Screenshot (46)](https://github.com/user-attachments/assets/036412ab-01f0-42f9-8600-6e336fef73d1)
