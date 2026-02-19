@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Feb 19, 2026, 04_52_47 PM" src="https://github.com/user-attachments/assets/48295f9f-c8ea-4bd2-bfe3-c2f4b5b97d9b" />
+
 # Bike Sales-Data-Analysis (Interactive Dashboard Creation Using Ms Excel)
 ## Project Objective
 To understand customer demographics and purchasing behavior to improve targeted marketing, sales strategies, and customer retention for bike buyers
